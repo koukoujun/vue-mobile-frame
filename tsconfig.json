@@ -34,7 +34,7 @@
     "src/**/*.tsx",
     "src/**/*.vue",
     "tests/**/*.ts",
-    "tests/**/*.tsx"
+    "tests/**/*.tsx", "src/router/page.ts", "src/router/demo.ts", "src/router/compex.js"
   ],
   "exclude": [
     "node_modules"
